@@ -6,10 +6,10 @@ usage:
 
     raw2csv sample1.dng
 
-To run the python version of the app:
+To run the python version of the app, first install dependencies:
     
     pip install -r requirements.txt
-    python raw2csv.py sample1.dmg
+    python raw2csv.py sample1.dng
     
 To build a standalone version of the app for Windows, Mac, or Linux with pyinstaller:
 
