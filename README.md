@@ -16,6 +16,8 @@ To build a standalone version of the app for Windows, Mac, or Linux with pyinsta
     pip install pyinstaller 
     pyinstaller --onefile raw2csv.py
 
+The executable will be created the `/dist` directory
+
 A windows exe is included:
 
     raw2csv.exe
