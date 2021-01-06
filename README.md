@@ -1,4 +1,5 @@
-#raw2csv
+raw2csv
+-------
 
 This converts an image in RAW or DNG format to a CSV file with the raw data.
 
